@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.AssemblyInfo.cs
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/Учеба разработчик/finals1/bin/Debug/net7.0/finals1
+/Users/oleg/Desktop/Учеба разработчик/finals1/bin/Debug/net7.0/finals1.deps.json
+/Users/oleg/Desktop/Учеба разработчик/finals1/bin/Debug/net7.0/finals1.runtimeconfig.json
+/Users/oleg/Desktop/Учеба разработчик/finals1/bin/Debug/net7.0/finals1.dll
+/Users/oleg/Desktop/Учеба разработчик/finals1/bin/Debug/net7.0/finals1.pdb
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.dll
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/refint/finals1.dll
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.pdb
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/finals1.genruntimeconfig.cache
+/Users/oleg/Desktop/Учеба разработчик/finals1/obj/Debug/net7.0/ref/finals1.dll
